@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.2.0",
+    "build": "^0.1.4",
+    "https": "^1.0.0",
+    "https-browserify": "^1.0.0",
+    "polyfills": "^1.9.5",
+    "toggle": "^1.0.1"
+  }
+}
